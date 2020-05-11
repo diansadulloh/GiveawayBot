@@ -121,6 +121,12 @@ Thank you for using this code !
 
 # Latest updates
 
+- 1.0.2
+
+```
+- Modification of the help and new command to invite the bot
+```
+
 - 1.0.1
 
 ```
@@ -129,7 +135,7 @@ Thank you for using this code !
 
 # Next update
 
-- 1.0.2
+- 1.0.3
 
 ```
 - Correction of the possibility to set 0 for the number of winners
