@@ -50,7 +50,10 @@ module.exports = {
       langdescription: (message) => `Cette commande sert à modifier la langue du bot.\nUsage \`${config.prefix}lang <fr/en>\`.`,
 
       set: (message) => `**${config.prefix}set**`,
-      setdescription: (message) => `Cette commande sert à modifier les configurations du bot.\nUsage \`${config.prefix}set <mention/logs/role>\`.`
+      setdescription: (message) => `Cette commande sert à modifier les configurations du bot.\nUsage \`${config.prefix}set <mention/logs/role>\`.`,
+        
+      invite: (message) => `**${config.prefix}invite**`,
+      invitedescription: (message) => `Cette commande sert à obtenir le lien d'invitation du bot.\nUsage \`${config.prefix}invite\`.`
     },
 
     end: {
