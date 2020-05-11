@@ -73,7 +73,7 @@ module.exports = {
 ```
 
 Don't panic everything is indicated in the file for what you need to fill out.
-However, I remind you of all the functions below :
+However, i remind you of all the functions below :
 
 - `token`, the token of your bot.
 - `idbot`, the ID of your robot.
