@@ -23,6 +23,7 @@ exports.run = async (client, message, args) => {
     .addField(lang.help.edit(message), lang.help.editdescription(message))
     .addField(lang.help.lang(message), lang.help.langdescription(message))
     .addField(lang.help.set(message), lang.help.setdescription(message))
+    .addField(lang.help.invite(message), lang.help.invitedescription(message))
     .setFooter(config.embeds.footers)
     .setColor(config.embeds.color)
 
